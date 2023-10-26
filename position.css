@@ -1,0 +1,27 @@
+#position1{
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+    bottom: 30px;
+    position: sticky;
+    top: 10px;
+    bottom: 20px;
+}
+#position2{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    /* position: relative;  */
+    /* left: 80px;
+    top: 30px;
+    bottom: 200px; */
+    position: relative;
+    /* /* position: fixed; */
+    
+    top: 150px;
+    left: 20%;
+    transform: rotate(30deg);
+    float: left 30px; 
+
+
+}
